@@ -1,0 +1,8 @@
+wikipedia-api
+transformers
+torch
+faiss-cpu
+numpy
+openai
+fastapi
+uvicorn
